@@ -1,0 +1,175 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* LICENSE.md
+* README.md
+* app\
+* app\build.gradle
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\assets\
+* app\src\main\assets\fonts\
+* app\src\main\assets\fonts\Molot.otf
+* app\src\main\java\
+* app\src\main\java\org\
+* app\src\main\java\org\ruscoe\
+* app\src\main\java\org\ruscoe\example\
+* app\src\main\java\org\ruscoe\example\tilegame\
+* app\src\main\java\org\ruscoe\example\tilegame\About.java
+* app\src\main\java\org\ruscoe\example\tilegame\GameImage.java
+* app\src\main\java\org\ruscoe\example\tilegame\GameTile.java
+* app\src\main\java\org\ruscoe\example\tilegame\GameUi.java
+* app\src\main\java\org\ruscoe\example\tilegame\GameUnit.java
+* app\src\main\java\org\ruscoe\example\tilegame\GameView.java
+* app\src\main\java\org\ruscoe\example\tilegame\Play.java
+* app\src\main\java\org\ruscoe\example\tilegame\PlayerUnit.java
+* app\src\main\java\org\ruscoe\example\tilegame\data\
+* app\src\main\java\org\ruscoe\example\tilegame\data\GameDAO.java
+* app\src\main\java\org\ruscoe\example\tilegame\data\GameLevelTileData.java
+* app\src\main\java\org\ruscoe\example\tilegame\data\GameTileData.java
+* app\src\main\res\
+* app\src\main\res\drawable-hdpi\
+* app\src\main\res\drawable-hdpi\canvas_bg_01.png
+* app\src\main\res\drawable-hdpi\ctrl_down_arrow.png
+* app\src\main\res\drawable-hdpi\ctrl_left_arrow.png
+* app\src\main\res\drawable-hdpi\ctrl_right_arrow.png
+* app\src\main\res\drawable-hdpi\ctrl_up_arrow.png
+* app\src\main\res\drawable-hdpi\icon.png
+* app\src\main\res\drawable-hdpi\player_unit.png
+* app\src\main\res\drawable-hdpi\tile_01.png
+* app\src\main\res\drawable-hdpi\tile_02.png
+* app\src\main\res\drawable-hdpi\tile_03.png
+* app\src\main\res\drawable-hdpi\tile_04.png
+* app\src\main\res\drawable-hdpi\tile_05.png
+* app\src\main\res\drawable-hdpi\tile_06.png
+* app\src\main\res\drawable-hdpi\tile_07.png
+* app\src\main\res\drawable-hdpi\tile_danger_01.png
+* app\src\main\res\drawable-hdpi\tile_exit.png
+* app\src\main\res\drawable-mdpi\
+* app\src\main\res\drawable-mdpi\canvas_bg_01.png
+* app\src\main\res\drawable-mdpi\ctrl_down_arrow.png
+* app\src\main\res\drawable-mdpi\ctrl_left_arrow.png
+* app\src\main\res\drawable-mdpi\ctrl_right_arrow.png
+* app\src\main\res\drawable-mdpi\ctrl_up_arrow.png
+* app\src\main\res\drawable-mdpi\icon.png
+* app\src\main\res\drawable-mdpi\player_unit.png
+* app\src\main\res\drawable-mdpi\tile_01.png
+* app\src\main\res\drawable-mdpi\tile_02.png
+* app\src\main\res\drawable-mdpi\tile_03.png
+* app\src\main\res\drawable-mdpi\tile_04.png
+* app\src\main\res\drawable-mdpi\tile_05.png
+* app\src\main\res\drawable-mdpi\tile_06.png
+* app\src\main\res\drawable-mdpi\tile_07.png
+* app\src\main\res\drawable-mdpi\tile_danger_01.png
+* app\src\main\res\drawable-mdpi\tile_exit.png
+* app\src\main\res\layout\
+* app\src\main\res\layout\about.xml
+* app\src\main\res\menu\
+* app\src\main\res\menu\menu.xml
+* app\src\main\res\values\
+* app\src\main\res\values\dimensions.xml
+* app\src\main\res\values\strings.xml
+* build.gradle
+* extra_assets\
+* extra_assets\player_unit.png
+* extra_assets\tiles\
+* extra_assets\tiles\tile_boxbrown1.png
+* extra_assets\tiles\tile_brick10.png
+* extra_assets\tiles\tile_brick11.png
+* extra_assets\tiles\tile_brick12.png
+* extra_assets\tiles\tile_brick13.png
+* extra_assets\tiles\tile_brick15.png
+* extra_assets\tiles\tile_brick16.png
+* extra_assets\tiles\tile_brick17.png
+* extra_assets\tiles\tile_brick19.png
+* extra_assets\tiles\tile_brick20.png
+* extra_assets\tiles\tile_brick21.png
+* extra_assets\tiles\tile_brick22.png
+* extra_assets\tiles\tile_brick23.png
+* extra_assets\tiles\tile_brick24.png
+* extra_assets\tiles\tile_brick25.png
+* extra_assets\tiles\tile_brick26.png
+* extra_assets\tiles\tile_brick27.png
+* extra_assets\tiles\tile_brick28.png
+* extra_assets\tiles\tile_brick29.png
+* extra_assets\tiles\tile_brick30.png
+* extra_assets\tiles\tile_brick31.png
+* extra_assets\tiles\tile_brick32.png
+* extra_assets\tiles\tile_brick33.png
+* extra_assets\tiles\tile_brick34.png
+* extra_assets\tiles\tile_brick35.png
+* extra_assets\tiles\tile_brick36.png
+* extra_assets\tiles\tile_brick5.png
+* extra_assets\tiles\tile_button01_frame1.png
+* extra_assets\tiles\tile_button01_frame2.png
+* extra_assets\tiles\tile_button02_frame1.png
+* extra_assets\tiles\tile_button02_frame2.png
+* extra_assets\tiles\tile_energy_ball01.png
+* extra_assets\tiles\tile_exit1.png
+* extra_assets\tiles\tile_field_horizontal.png
+* extra_assets\tiles\tile_field_vertical.png
+* extra_assets\tiles\tile_goo1_frame1.png
+* extra_assets\tiles\tile_goo1_frame2.png
+* extra_assets\tiles\tile_goo2.png
+* extra_assets\tiles\tile_lasergate_horizontal.png
+* extra_assets\tiles\tile_lasergate_vertical.png
+* extra_assets\ui\
+* extra_assets\ui\canvas_bg_01.png
+* extra_assets\ui\ctrl_beam_slider.png
+* extra_assets\ui\ctrl_left_arrow.png
+* extra_assets\ui\ctrl_message_close.png
+* extra_assets\ui\ctrl_right_arrow.png
+* extra_assets\ui\dialog_bg_01.png
+* extra_assets\ui\icon.png
+* extra_assets\ui\settings_btn_off.png
+* extra_assets\ui\settings_btn_on.png
+* extra_assets\ui\ui_out_of_energy.png
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* settings.gradle
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

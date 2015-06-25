@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/sys314/Documents/GitHub/Android-Tile-Based-Game/app/src/main/res/values/dimensions.xml -->
+    <eat-comment/>
+    <dimen name="ui_text_size">20dp</dimen>
+    <!-- From: file:/C:/Users/sys314/Documents/GitHub/Android-Tile-Based-Game/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about_label">About</string>
+    <string name="about_link">http://ruscoe.org/code/</string>
+    <string name="about_open_source">The code used to create this example is open-source:</string>
+    <string name="about_shortcut">a</string>
+    <string name="about_text">Tile game example using Android canvas.</string>
+    <string name="app_name">Tile Game Example</string>
+    <string name="exit_label">Exit</string>
+    <string name="exit_shortcut">x</string>
+</resources>
